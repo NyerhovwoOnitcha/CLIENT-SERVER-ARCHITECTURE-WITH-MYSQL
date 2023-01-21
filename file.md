@@ -55,7 +55,7 @@
 ### Another variation of this command is the select user
 ![select user](./images/select%20user%20and%20select%20host.jpg)
 
-### yet another variation, the best one: shows both the user and the host
+### yet another variation shows both the user and the host
 `select user, host from mysql.user;`
 ![](./images/USER%20AND%20HOST.jpg)
 
